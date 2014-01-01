@@ -12,6 +12,10 @@
 
         git clone git@github.com:macollins/ims.git
 
-4. Build:
+4. Install packages:
+
+        npm install
+
+5. Build:
 
         grunt
