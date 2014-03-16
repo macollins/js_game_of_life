@@ -1,5 +1,7 @@
 # Game of Life
 
+Starting point for Game of Life kata using JavaScript with Jasmine and JSHint.
+
 ## Setup
 
 1. Install Node.js
@@ -10,7 +12,7 @@
 
 3. Clone repository:
 
-        git clone git@github.com:macollins/ims.git
+        git clone git@github.com:macollins/js_game_of_life.git
 
 4. Install packages:
 
